@@ -8,6 +8,6 @@ const counter = function(start) {
   }
 }
 
-const contact = { firstName: 'Sasha', };
+const contact = { firstName: 'Sasha' , };
 
 const scores = [55 , 23 , 78];

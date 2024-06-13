@@ -22,8 +22,8 @@ module.exports = {
     'comma-spacing': [
       'error',
       {
-        'before': 'true',
-        'after': 'true',
+        'before': true,
+        'after': true,
       },
     ],
   },
